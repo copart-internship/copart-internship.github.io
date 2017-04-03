@@ -83,13 +83,13 @@ K=4
 Sample Output:
 24A0-R74K
 ---
-## Coding Exercises - Problem statements ((JavaScript, ReactJS, NODEJS, Ruby)
+## Coding Exercises - Problem statements (JavaScript, ReactJS, NODEJS, Ruby)
 
  Solve using Ruby or NODEJS:
  
  Move attached CSV data into DB and fetch Long coordinates for Location column using google map API. 
 
-a. Move data from CSV to DB (You can get Vehicle Data from our website link: https://www.copart.com/search/classics/?displayStr=Classics&from=%2FvehicleFinder)
+a. Move data from CSV to DB (You can get Vehicle Data from our website link: https://www.copart.com/search/classics/?displayStr=Classics&from=%2FvehicleFinder, using export feature on the page)
 b. Get Lat, Long coordinates for Location column in attached. CSV (you can use google map API)
 c. Create two columns in DB Lat, Long
 d. Add Lat, Long coordinates to Database for each Location in CSV.
