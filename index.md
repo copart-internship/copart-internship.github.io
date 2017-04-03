@@ -11,6 +11,9 @@
     - [The Problem:](#the-problem-1)
   - [Upcoming Auction Vehicle Search - UI/Web Service (Medium)](#upcoming-auction-vehicle-search---uiweb-service-medium)
     - [The Problem:](#the-problem-2)
+  - [Programming Assignment - License Keys (Simple)](#programming-assignment---license-keys-simple)
+    - [The Problem:](#the-problem-3)
+  - [Coding Exercises - Problem statements (JavaScript, ReactJS, NODEJS, Ruby)(Medium)](#coding-exercises---problem-statements-javascript-reactjs-nodejs-rubymedium)
   - [Copart Contacts](#copart-contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -64,6 +67,8 @@ The listing service documentation can be found at:
 [Copart Inventory API](https://inventory.copart.io/docs/InventoryAPISpecification.html)
 Alternately, in the place of a user interface, you may also build a web service that will retrieve this information mentioned above.
 
+- - -
+
 ### Programming Assignment - License Keys (Simple)
 #### The Problem:
 We are given a string S consisting of N characters and an integer K. The string represents software license key which we would like to format. The string is composed of alphanumeric characters and dashes. The dashes split the string into groups (i.e if there are M dashes, the string is split into M+1 groups). The dashes in the string are possibly misplaced.
@@ -82,8 +87,11 @@ K=4
 
 Sample Output:
 24A0-R74K
----
-## Coding Exercises - Problem statements (JavaScript, ReactJS, NODEJS, Ruby)
+
+
+- - -
+
+### Coding Exercises - Problem statements (JavaScript, ReactJS, NODEJS, Ruby)(Medium)
 
  Solve using Ruby or NODEJS:
  
@@ -115,6 +123,11 @@ Street Name 2:_______________
 City:_____________
 State:______________
 Zipcode:_____________
+
+
+- - - 
+- - - 
+- - - 
 
 ### Copart Contacts
 
