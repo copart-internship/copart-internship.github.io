@@ -40,7 +40,7 @@ Given a request payload that contains a US zip code and a Customer ID, figure ou
 1. Use a DB where appropriate.
 2. Use any rules based engine where appropriate
 3. Use any API as you see appropriate
-4. Copart will provide a list of sample facilities
+4. 4. You can get a list of copart yards/facilities from our [website](https://www.copart.com/locationsList/)
 
 - - -
 
