@@ -1,1 +1,0 @@
-# copart-internship.github.io
