@@ -60,7 +60,7 @@ User should be able to search on Year, Make and Model in a region. Region is a g
 Optional filters user can choose are damage description and title type to narrow the list further
 The user interface should display the Year, Make, Model, Auction Date, Auction Yard, Address, Damage Description, and Vehicle images
 The listing service documentation can be found at:
-https://inventory.copart.io/docs/InventoryAPISpecification.html
+[Copart Inventory API](https://inventory.copart.io/docs/InventoryAPISpecification.html)
 Alternately, in the place of a user interface, you may also build a web service that will retrieve this information mentioned above.
 
 
