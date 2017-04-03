@@ -2,16 +2,27 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Welcome to GitHub Pages](#welcome-to-github-pages)
+- [Welcome to Copart Internship 2017 summer coding camp](#welcome-to-copart-internship-2017-summer-coding-camp)
+  - [RULES OF ENGAGEMENT](#rules-of-engagement)
   - [Markdown](#markdown)
-  - [Jekyll Themes](#jekyll-themes)
-  - [Support or Contact](#support-or-contact)
+  - [Copart Contacts](#copart-contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Welcome to GitHub Pages
+## Welcome to Copart Internship 2017 summer coding camp
 
-You can use the [editor on GitHub](https://github.com/copart-internship/copart-internship.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Copart Coding camp is an initiative to get students to think out side the box and bring in new design/development ideas. Copart believes that such events are good tools to attract new talent and also stimulate creative thinking. We encourage participation.
+ 
+
+### RULES OF ENGAGEMENT
+Each participant has to pick a problem statement below and show his/her work.
+Do not copy. Try to be creative.
+Understand what you are developing.
+Code must be committed to Github or Bitbucket.
+All commits after 4PM will not be accepted.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -39,10 +50,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/copart-internship/copart-internship.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Copart Contacts
 
-### Support or Contact
+Reach out to one of the copart representatives and we will be glad to help you.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
