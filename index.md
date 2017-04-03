@@ -141,6 +141,10 @@ zip_codes_states.csv
 ### Convert String to Integer (Simple) (10 points) 
 Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = "1234" - > Integer output=1234;
 
+
+### Extract Text from PDF (30 points)
+Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name from ocr.pdf file.
+
 ### Copart Contacts
 
 Reach out to one of the copart representatives and we will be glad to help you.
