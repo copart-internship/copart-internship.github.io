@@ -105,7 +105,9 @@ d. Add Lat, Long coordinates to Database for each Location in CSV.
 Note: Make sure you don't make same call to maps api for same location
 
 --
- 2. ReactJS - UI or JavaScript (Simple)
+### Coding Exercises - Problem statements (JavaScript or ReactJS)(Medium)
+
+ 2. ReactJS - UI or JavaScript 
 Build components:
 
 1. Phone Component:  validation and auto format. 
@@ -113,7 +115,7 @@ a. As you enter numbers, the phone field should auto format. Format should look 
 b. As you delete/backspace numbers from right to left, the format should auto adjust. After removing last 4 digits, the hyphen should go away and rest of 
 the numbers format remain same: (123) 456 but should display error message:Invalid phone number, if user leaves field incomplete and goes to another field: 
 
-2. Address Component: (Medium)
+2. Address Component: 
  
 Build component to fetch full address as user enters street address, using Google API. 
 a. Address fields should be editable after populating address from google api. 
