@@ -26,6 +26,9 @@ Do not copy. Try to be creative.
 Understand what you are developing.
 Code must be committed to Github or Bitbucket.
 All commits after 4PM will not be accepted.
+Code must have README.md
+Code must have comments - We cannot read your mind.
+
 
 - - -
 
