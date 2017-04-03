@@ -38,18 +38,18 @@ Copart Coding camp is an initiative to get students to think out side the box an
 
 ## Coding Exercises - Problem statements
 
-### Most Appropriate Facility  (Complex)
+### Most Appropriate Facility  (Complex) (100 points)
 #### The Problem:
 Given a request payload that contains a US zip code and a Customer ID, figure out the Closest Copart facility based on specific rules for a Customer. Think inclusion and exclusion rules.
 1. Use a DB where appropriate.
 2. Use any rules based engine where appropriate
 3. Use any API as you see appropriate
-4. You can get a list of copart yards/facilities from our [website](https://www.copart.com/locationsList/)
-5. Sample Rules.xls file is added to the Repo. There are no limit to number of Rules.
+4. You can get a list of copart yards/facilities from our [website](https://www.copart.com/locationsList/) *Cannot use locations from zip_code_states.csv
+5. Sample Rules.xls file is added to the Repo. There are no limit to number of Rules. The rules can be added to the xls and the system must be able to handle it.
 
 - - -
 
-### JS Library/framework* based - Nested ListView (Simple)
+### JS Library/framework* based - Nested ListView (Simple) (10 points)
 #### The Problem:
 JS based ListView - Must have multiple Nested list views - (eg) Countries, States, Cities. 
 1. Single JSON response vs Multiple JSON response - Showcase both.
@@ -58,7 +58,7 @@ JS based ListView - Must have multiple Nested list views - (eg) Countries, State
 
 - - -
 
-### Upcoming Auction Vehicle Search - UI/Web Service (Medium)
+### Upcoming Auction Vehicle Search - UI/Web Service (Medium) (40 points)
 #### The Problem:
 Given a listing of upcoming auctions, help the user narrow down to the vehicles that are of interest.
 User should be able to search on Year, Make and Model in a region. Region is a grouping of one or more yards the user can choose from (Yards available in calendar service)\
@@ -70,7 +70,7 @@ Alternately, in the place of a user interface, you may also build a web service 
 
 - - -
 
-### Programming Assignment - License Keys (Simple)
+### Programming Assignment - License Keys (Simple) (10 points)
 #### The Problem:
 We are given a string S consisting of N characters and an integer K. The string represents software license key which we would like to format. The string is composed of alphanumeric characters and dashes. The dashes split the string into groups (i.e if there are M dashes, the string is split into M+1 groups). The dashes in the string are possibly misplaced.
 
@@ -88,7 +88,6 @@ K=4
 
 Sample Output:
 24A0-R74K
-
 
 - - -
 
@@ -129,6 +128,18 @@ Zipcode:_____________
 - - - 
 - - - 
 - - - 
+
+### Programming Assignment - License Keys (Complex) (100 points)
+a) Given the geo cordinates of different yard locations, develop a model that determines the closest yard to the given pickup location. (20 points)
+
+b)Optimize your solution to O(n-k) through unsupervised learning algorithm (80 points). And also provide 2 more nearer locations to the chosen location.
+
+The yard locations can be obtained from
+zip_codes_states.csv
+
+
+### Convert String to Integer (Simple) (10 points) 
+Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = "1234" - > Integer output=1234;
 
 ### Copart Contacts
 
