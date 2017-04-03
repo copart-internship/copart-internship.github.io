@@ -24,13 +24,14 @@ Copart Coding camp is an initiative to get students to think out side the box an
  
 
 ### RULES OF ENGAGEMENT
-1. Each participant has to pick a problem statement below and show his/her work.
+1. Each team (not to exceed 2) has to pick a problem statement below and show their work. You may pick multiple problems to solve.
 2. Do not copy. Try to be creative.
 3. Understand what you are developing.
 4. Code must be committed to Github or Bitbucket.
 5. All commits after 4PM will not be accepted.
 6. Code must have README.md
 7. Code must have comments - We cannot read your mind.
+8. You dont need to complete the problem. Make an effort. 
 
 
 - - -
