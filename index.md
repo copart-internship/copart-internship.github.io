@@ -45,7 +45,7 @@ Given a request payload that contains a US zip code and a Customer ID, figure ou
 2. Use any rules based engine where appropriate
 3. Use any API as you see appropriate
 4. You can get a list of copart yards/facilities from our [website](https://www.copart.com/locationsList/)
-5. Sample Rules file is added to the Repo
+5. Sample Rules.xls file is added to the Repo. There are no limit to number of Rules.
 
 - - -
 
