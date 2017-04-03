@@ -82,7 +82,39 @@ K=4
 
 Sample Output:
 24A0-R74K
+---
+## Coding Exercises - Problem statements ((JavaScript, ReactJS, NODEJS, Ruby)
 
+ Solve using Ruby or NODEJS:
+ 
+ Move attached CSV data into DB and fetch Long coordinates for Location column using google map API. 
+
+a. Move data from CSV to DB (You can get Vehicle Data from our website link: https://www.copart.com/search/classics/?displayStr=Classics&from=%2FvehicleFinder)
+b. Get Lat, Long coordinates for Location column in attached. CSV (you can use google map API)
+c. Create two columns in DB Lat, Long
+d. Add Lat, Long coordinates to Database for each Location in CSV.
+Note: Make sure you don't make same call to maps api for same location
+
+--
+ 2. ReactJS - UI or JavaScript
+Build components:
+
+1. Phone Component:  validation and auto format. 
+a. As you enter numbers, the phone field should auto format. Format should look like (123) 456-7890.
+b. As you delete/backspace numbers from right to left, the format should auto adjust. After removing last 4 digits, the hyphen should go away and rest of 
+the numbers format remain same: (123) 456 but should display error message:Invalid phone number, if user leaves field incomplete and goes to another field: 
+
+2. Address Component: 
+ 
+Build component to fetch full address as user enters street address, using Google API. 
+a. Address fields should be editable after populating address from google api. 
+ 
+Address:________________
+Street name 1: ______________
+Street Name 2:_______________
+City:_____________
+State:______________
+Zipcode:_____________
 
 ### Copart Contacts
 
