@@ -27,6 +27,7 @@ Understand what you are developing.
 Code must be committed to Github or Bitbucket.
 All commits after 4PM will not be accepted.
 
+- - -
 
 ## Coding Exercises - Problem statements
 
@@ -38,6 +39,7 @@ Given a request payload that contains a US zip code and a Customer ID, figure ou
 3. Use any API as you see appropriate
 4. Copart will provide a list of sample facilities
 
+- - -
 
 ### JS Library/framework* based - Nested ListView (Simple)
 #### The Problem:
@@ -46,7 +48,7 @@ JS based ListView - Must have multiple Nested list views - (eg) Countries, State
 2. Reuse components and reuse data from cache/store
 [*] - Use React or AngularJS or ember or backbone or one of the modern JS frameworks/libraries. Do not use JQuery or ExtJS 
 
-
+- - -
 
 ### Upcoming Auction Vehicle Search - UI/Web Service (Medium)
 #### The Problem:
