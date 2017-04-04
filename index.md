@@ -18,7 +18,7 @@
   - [Programming Assignment - License Keys (Complex) (100 points)](#programming-assignment---license-keys-complex-100-points)
   - [Convert String to Integer (Simple) (10 points)](#convert-string-to-integer-simple-10-points)
   - [Extract Text from PDF (20 points)](#extract-text-from-pdf-20-points)
-  - [HTML/JS Any frontend tech - Design calendar for auctions (Medium)](#htmljs-any-frontend-tech---design-calendar-for-auctions-medium)
+  - [HTML/JS Any frontend tech - Design calendar for auctions (Medium)(30 points)](#htmljs-any-frontend-tech---design-calendar-for-auctions-medium30-points)
   - [Github link](#github-link)
   - [Copart Contacts](#copart-contacts)
 
