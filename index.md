@@ -104,7 +104,7 @@ Sample Output:
  
  Move attached CSV data into DB and fetch lat, Long coordinates for Location column using google map API. 
 
-a). Move data from CSV to DB (Vehicledetials.csv File attached).
+a). Import data from CSV file to DB (VehicleDetails.csv File attached).
 b). Get Lat, Long coordinates for Location column in attached. CSV (you can use google map API)
 c). Create two columns in DB Lat, Long
 d). Add Lat, Long coordinates to Database for each Location in CSV.
