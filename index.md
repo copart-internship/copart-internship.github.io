@@ -31,7 +31,8 @@ Copart Coding camp is an initiative to get students to think out side the box an
 5. All commits after 4PM will not be accepted.
 6. Code must have README.md
 7. Code must have comments - We cannot read your mind.
-8. You dont need to complete the problem. Make an effort. 
+8. You dont need to complete the problem. Make an effort.
+9. Individual contributions musy be clearly explained
 
 
 - - -
@@ -45,7 +46,7 @@ Given a request payload that contains a US zip code and a Customer ID, figure ou
 2. Use any rules based engine where appropriate
 3. Use any API as you see appropriate
 4. You can get a list of copart yards/facilities from our [website](https://www.copart.com/locationsList/) *Cannot use locations from zip_code_states.csv
-5. Sample Rules.xls file is added to the Repo. There are no limit to number of Rules. The rules can be added to the xls and the system must be able to handle it.
+5. Sample Rules file is added to the Repo in Documents/Rules.xls. There are no limit to number of Rules. The rules can be added to the xls and the system must be able to handle it.
 
 - - -
 
@@ -58,7 +59,7 @@ JS based ListView - Must have multiple Nested list views - (eg) Countries, State
 
 - - -
 
-### Upcoming Auction Vehicle Search - UI/Web Service (Medium) (40 points)
+### Upcoming Auction Vehicle Search - UI/Web Service (Medium) (30 points)
 #### The Problem:
 Given a listing of upcoming auctions, help the user narrow down to the vehicles that are of interest.
 User should be able to search on Year, Make and Model in a region. Region is a grouping of one or more yards the user can choose from (Yards available in calendar service)\
@@ -91,7 +92,7 @@ Sample Output:
 
 - - -
 
-### Coding Exercises - Problem statements (JavaScript, ReactJS, Node.js, Ruby)(Medium)
+### Coding Exercises - Problem statements (JavaScript, ReactJS, Node.js, Ruby)(30 points)
 
  Solve using Ruby or Node.js:
  
@@ -105,7 +106,7 @@ d). Add Lat, Long coordinates to Database for each Location in CSV.
 Note: Make sure you don't make same call to maps api for same location
 
 --
-### Coding Exercises - Problem statements (JavaScript or ReactJS)(Medium)
+### Coding Exercises - Problem statements (JavaScript or ReactJS) (30 points)
 
  2. ReactJS - UI or JavaScript 
 Build components:
@@ -140,11 +141,11 @@ zip_codes_states.csv
 
 
 ### Convert String to Integer (Simple) (10 points) 
-Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = "1234" - > Integer output=1234;
+Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = "1234" - > Integer output=1234.
 
 
-### Extract Text from PDF (30 points)
-Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name from ocr.pdf file.
+### Extract Text from PDF (20 points)
+Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
 ### Copart Contacts
 
