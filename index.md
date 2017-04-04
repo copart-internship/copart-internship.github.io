@@ -17,10 +17,10 @@
   - [Coding Exercises - Problem statements (JavaScript or ReactJS) (30 points)](#coding-exercises---problem-statements-javascript-or-reactjs-30-points)
   - [Programming Assignment - Variation of Most Appropriate Yard (Complex) (100 points)](#programming-assignment---variation-of-most-appropriate-yard-complex-100-points)
   - [Convert String to Integer (Simple) (10 points)](#convert-string-to-integer-simple-10-points)
-  - [Extract Text from PDF (20 points)](#extract-text-from-pdf-20-points)
+  - [Extract Text from PDF/Image (20 points)](#extract-text-from-pdfimage-20-points)
   - [HTML/JS Any frontend tech - Design calendar for auctions (Medium)(30 points)](#htmljs-any-frontend-tech---design-calendar-for-auctions-medium30-points)
   - [Github link](#github-link)
-  - [Submit your application online at [https://goo.gl/EVM9vs]](#submit-your-application-online-at-httpsgooglevm9vs)
+  - [Submit your application online](#submit-your-application-online)
   - [Copart Contacts](#copart-contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -68,13 +68,13 @@ JS based ListView - Must have multiple Nested list views - (eg) Countries, State
 
 ### Upcoming Auction Vehicle Search - UI/Web Service (Medium) (30 points)
 #### The Problem:
-Given a listing of upcoming auctions, help the user narrow down to the vehicles that are of interest.
-User should be able to search on Year, Make and Model in a region. Region is a grouping of one or more yards the user can choose from (Yards available in calendar service)\
+1. Given a listing of upcoming auctions, help the user narrow down to the vehicles that are of interest.
+2. User should be able to search on Year, Make and Model in a region. Region is a grouping of one or more yards the user can choose from (Yards available in calendar service)\
 Optional filters user can choose are damage description and title type to narrow the list further
-The user interface should display the Year, Make, Model, Auction Date, Auction Yard, Address, Damage Description, and Vehicle images
-The listing service documentation can be found at:
+3. The user interface should display the Year, Make, Model, Auction Date, Auction Yard, Address, Damage Description, and Vehicle images
+4. The listing service documentation can be found at:
 [Copart Inventory API](https://inventory.copart.io/docs/InventoryAPISpecification.html)
-Alternately, in the place of a user interface, you may also build a web service that will retrieve this information mentioned above.
+5. Alternately, in the place of a user interface, you may also build a web service that will retrieve this information mentioned above.
 
 - - -
 
@@ -152,7 +152,7 @@ Without using any Integer functions like parseInt/valueOf convert the String to 
 
 
 - - - 
-### Extract Text from PDF (20 points)
+### Extract Text from PDF/Image (20 points)
 Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
 - - - 
@@ -170,7 +170,7 @@ Use any open source tool extract the Vehicle ID Number, Plate Number & Certifica
 ### [Github link](https://github.com/copart-internship/copart-internship.github.io) 
 - - - 
 
-### Submit your application online at [https://goo.gl/EVM9vs]
+### Submit your application [online](https://goo.gl/EVM9vs)
 - - - 
 - - - 
 - - - 
