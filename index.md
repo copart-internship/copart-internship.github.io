@@ -38,7 +38,7 @@ Copart Coding camp is an initiative to get students to think out side the box an
 6. Code must have README.md
 7. Code must have comments - We cannot read your mind.
 8. You dont need to complete the problem. Make an effort.
-9. Individual contributions musy be clearly explained
+9. Individual contributions must be clearly explained
 
 
 - - -
