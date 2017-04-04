@@ -75,7 +75,7 @@ Optional filters user can choose are damage description and title type to narrow
 4. The listing service documentation can be found at:
 [Copart Inventory API](https://inventory.copart.io/docs/InventoryAPISpecification.html)
 5. Alternately, in the place of a user interface, you may also build a web service that will retrieve this information mentioned above.
-
+Sample API: http://inventory.copart.io/v1/saleLotDetails?country=US&brand=CPRT&auctionDate=2017-04-04T15:00:00.000Z&yardNumber=23
 - - -
 
 ### Programming Assignment - License Keys (Simple) (10 points)
