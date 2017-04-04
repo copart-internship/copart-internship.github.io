@@ -98,7 +98,7 @@ Sample Output:
 
 - - -
 
-### Coding Exercises - Problem statements (JavaScript, ReactJS, Node.js, Ruby)(30 points)
+### Coding Exercises - Problem statements (Node.js or Ruby)(30 points)
 
  Solve using Ruby or Node.js:
  
