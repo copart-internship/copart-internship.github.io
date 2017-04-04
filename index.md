@@ -5,15 +5,21 @@
 - [Welcome to Copart Internship 2017 summer coding camp](#welcome-to-copart-internship-2017-summer-coding-camp)
   - [RULES OF ENGAGEMENT](#rules-of-engagement)
 - [Coding Exercises - Problem statements](#coding-exercises---problem-statements)
-  - [Most Appropriate Facility  (Complex)](#most-appropriate-facility--complex)
+  - [Most Appropriate Facility  (Complex) (100 points)](#most-appropriate-facility--complex-100-points)
     - [The Problem:](#the-problem)
-  - [JS Library/framework* based - Nested ListView (Simple)](#js-libraryframework-based---nested-listview-simple)
+  - [JS Library/framework* based - Nested ListView (Simple) (10 points)](#js-libraryframework-based---nested-listview-simple-10-points)
     - [The Problem:](#the-problem-1)
-  - [Upcoming Auction Vehicle Search - UI/Web Service (Medium)](#upcoming-auction-vehicle-search---uiweb-service-medium)
+  - [Upcoming Auction Vehicle Search - UI/Web Service (Medium) (30 points)](#upcoming-auction-vehicle-search---uiweb-service-medium-30-points)
     - [The Problem:](#the-problem-2)
-  - [Programming Assignment - License Keys (Simple)](#programming-assignment---license-keys-simple)
+  - [Programming Assignment - License Keys (Simple) (10 points)](#programming-assignment---license-keys-simple-10-points)
     - [The Problem:](#the-problem-3)
-  - [Coding Exercises - Problem statements (JavaScript, ReactJS, NODEJS, Ruby)(Medium)](#coding-exercises---problem-statements-javascript-reactjs-nodejs-rubymedium)
+  - [Coding Exercises - Problem statements (JavaScript, ReactJS, Node.js, Ruby)(30 points)](#coding-exercises---problem-statements-javascript-reactjs-nodejs-ruby30-points)
+  - [Coding Exercises - Problem statements (JavaScript or ReactJS) (30 points)](#coding-exercises---problem-statements-javascript-or-reactjs-30-points)
+  - [Programming Assignment - License Keys (Complex) (100 points)](#programming-assignment---license-keys-complex-100-points)
+  - [Convert String to Integer (Simple) (10 points)](#convert-string-to-integer-simple-10-points)
+  - [Extract Text from PDF (20 points)](#extract-text-from-pdf-20-points)
+  - [HTML/JS Any frontend tech - Design calendar for auctions (Medium)](#htmljs-any-frontend-tech---design-calendar-for-auctions-medium)
+  - [Github link](#github-link)
   - [Copart Contacts](#copart-contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -159,6 +165,8 @@ Use any open source tool extract the Vehicle ID Number, Plate Number & Certifica
  3. use Sale-Data.json file provided in [github](https://github.com/copart-internship/copart-internship.github.io) - under Documents.
 
 - - - 
+
+### [Github link](https://github.com/copart-internship/copart-internship.github.io) 
 - - - 
 - - - 
 - - - 
