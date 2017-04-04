@@ -15,7 +15,7 @@
     - [The Problem:](#the-problem-3)
   - [Coding Exercises - Problem statements (JavaScript, ReactJS, Node.js, Ruby)(30 points)](#coding-exercises---problem-statements-javascript-reactjs-nodejs-ruby30-points)
   - [Coding Exercises - Problem statements (JavaScript or ReactJS) (30 points)](#coding-exercises---problem-statements-javascript-or-reactjs-30-points)
-  - [Programming Assignment - License Keys (Complex) (100 points)](#programming-assignment---license-keys-complex-100-points)
+  - [Programming Assignment - Variation of Most Appropriate Yard (Complex) (100 points)](#programming-assignment---variation-of-most-appropriate-yard-complex-100-points)
   - [Convert String to Integer (Simple) (10 points)](#convert-string-to-integer-simple-10-points)
   - [Extract Text from PDF (20 points)](#extract-text-from-pdf-20-points)
   - [HTML/JS Any frontend tech - Design calendar for auctions (Medium)(30 points)](#htmljs-any-frontend-tech---design-calendar-for-auctions-medium30-points)
