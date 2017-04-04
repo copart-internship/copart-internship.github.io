@@ -156,7 +156,7 @@ Use any open source tool extract the Vehicle ID Number, Plate Number & Certifica
 
 - - - 
 
-### HTML/JS Any frontend tech - Design calendar for auctions (Medium) (30 points)
+### HTML/JS Any frontend tech - Design calendar for auctions (Medium)(30 points)
 
  The Problem::
  
