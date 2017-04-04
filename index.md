@@ -139,14 +139,29 @@ b)Optimize your solution to O(n-k) through unsupervised learning algorithm (80 p
 The yard locations can be obtained from
 zip_codes_states.csv
 
-
+- - - 
 ### Convert String to Integer (Simple) (10 points) 
 Without using any Integer functions like parseInt/valueOf convert the String to Integer. e.g. String input = "1234" - > Integer output=1234.
 
 
+- - - 
 ### Extract Text from PDF (20 points)
 Use any open source tool extract the Vehicle ID Number, Plate Number & Certificate Name pdf/image file. Sample docs can be found in Documents/Title Docs Folder.
 
+- - - 
+
+### HTML/JS Any frontend tech - Design calendar for auctions (Medium)
+
+ The Problem::
+ 
+ 1. Each day should show the list of facilities and the time of sale. 
+ 2. Also take the timezone of the user into consideration. The times displayed should be in the user's local timezone. Feel free to use any time conversion libraries. 
+ 3. use Sale-Data.json file provided in [github](https://github.com/copart-internship/copart-internship.github.io) - under Documents.
+
+- - - 
+- - - 
+- - - 
+- - - 
 ### Copart Contacts
 
 Reach out to one of the copart representatives and we will be glad to help you.
