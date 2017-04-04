@@ -97,10 +97,10 @@ Sample Output:
  
  Move attached CSV data into DB and fetch lat, Long coordinates for Location column using google map API. 
 
-a. Move data from CSV to DB (Vehicledetials.csv File attached).
-b. Get Lat, Long coordinates for Location column in attached. CSV (you can use google map API)
-c. Create two columns in DB Lat, Long
-d. Add Lat, Long coordinates to Database for each Location in CSV.
+a). Move data from CSV to DB (Vehicledetials.csv File attached).
+b). Get Lat, Long coordinates for Location column in attached. CSV (you can use google map API)
+c). Create two columns in DB Lat, Long
+d). Add Lat, Long coordinates to Database for each Location in CSV.
 
 Note: Make sure you don't make same call to maps api for same location
 
@@ -111,14 +111,15 @@ Note: Make sure you don't make same call to maps api for same location
 Build components:
 
 1. Phone Component:  validation and auto format. 
-a. As you enter numbers, the phone field should auto format. Format should look like (123) 456-7890.
-b. As you delete/backspace numbers from right to left, the format should auto adjust. After removing last 4 digits, the hyphen should go away and rest of 
+a). As you enter numbers, the phone field should auto format. Format should look like (123) 456-7890.
+b). As you delete/backspace numbers from right to left, the format should auto adjust. After removing last 4 digits, the hyphen should go away and rest of 
 the numbers format remain same: (123) 456 but should display error message:Invalid phone number, if user leaves field incomplete and goes to another field: 
 
 2. Address Component: 
  
-Build component to fetch full address as user enters street address, using Google API. 
-a. Address fields should be editable after populating address from google api. 
+  a). Build component to fetch full address as user enters street address, using Google API. 
+
+  b). Address fields should be editable after populating address from google api. 
  
 Address:________________
 Street name 1: ______________
@@ -127,9 +128,6 @@ City:_____________
 State:______________
 Zipcode:_____________
 
-
-- - - 
-- - - 
 - - - 
 
 ### Programming Assignment - License Keys (Complex) (100 points)
